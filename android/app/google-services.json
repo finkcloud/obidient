@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49891360338",
+    "project_id": "pgo-app-4cd2d",
+    "storage_bucket": "pgo-app-4cd2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49891360338:android:a5d89853f67a2fe031e98b",
+        "android_client_info": {
+          "package_name": "com.phixlab.pgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49891360338-f4ak13huhk6lb1nr15vk3v650mj4ij3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phixlab.pgo",
+            "certificate_hash": "0490da8d787015f906171c49986525bec0662d61"
+          }
+        },
+        {
+          "client_id": "49891360338-mvm9jn4uvplhga4oftocii1qapfd5did.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQaM60wBOqoa8NL3fUG3pjGOrrKAka85M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49891360338-mvm9jn4uvplhga4oftocii1qapfd5did.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
